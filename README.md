@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marklowie
-- 👀 I’m interested in 
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m  web Developer
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me contact this marklowienovember21@gmail.com
 
 <!---
